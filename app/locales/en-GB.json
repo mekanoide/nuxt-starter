@@ -1,0 +1,10 @@
+{
+  "error": {
+    "error": "Error",
+    "go-back-home": "Go back home"
+  },
+  "starter": {
+    "title": "Nuxt 3 Minimal Starter",
+    "description": "This is a minimal starter for Nuxt 3. It's future proof with the directory structure  is intended to be used as a starting point for your project. You can use it as a template for your own project."
+  }
+}
