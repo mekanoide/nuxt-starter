@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "license": "MIT",
   "author": "Omar Moreno Melcón",
-  "entry": "index.js",
+  "main": "index.js",
   "private": true,
   "type": "module",
   "scripts": {
