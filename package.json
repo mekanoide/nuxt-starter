@@ -1,5 +1,9 @@
 {
   "name": "nuxt-starter",
+  "version": "1.0.0",
+  "license": "MIT",
+  "author": "Omar Moreno Melcón",
+  "entry": "index.js",
   "private": true,
   "type": "module",
   "scripts": {
@@ -10,6 +14,7 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
+    "@nuxt/icon": "github:nuxt/icon",
     "@nuxtjs/i18n": "^8.5.5",
     "nuxt": "^3.13.2",
     "vue": "latest",

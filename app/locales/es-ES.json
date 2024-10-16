@@ -1,0 +1,10 @@
+{
+  "error": {
+    "error": "Error",
+    "go-back-home": "Volver a página de inicio"
+  },
+  "starter": {
+    "title": "Nuxt 3 Minimal Starter",
+    "description": "Esto es un starter mínimo para Nuxt 3. Usa el modo de compatibilidad para Nuxt 4. Trae Tailwind CSS incluido. Puedes usarlo como una plantilla para comenzar tu propia aplicación."
+  }
+}
