@@ -4,7 +4,6 @@
   "license": "MIT",
   "author": "Omar Moreno Melcón",
   "main": "index.js",
-  "private": true,
   "type": "module",
   "scripts": {
     "build": "nuxt build",
